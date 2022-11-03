@@ -1,4 +1,5 @@
 #include <stdbool.h>
+#include <math.h>
 
 #include "shot.h"
 #include "app.h"
